@@ -1,2 +1,6 @@
 print('Hello World!')
+print('I edit your file!')
+print("Freddie was here")
+print("hii")
+print('Dyllon was here ehehehe')
 print("Zak was here!")
